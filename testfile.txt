@@ -1,0 +1,24 @@
+type=home
+title=lunch at timmy
+start=2009, 10, 23, 0, 1, 30
+end=2009, 10, 23, 0, 2, 23
+comment=coffee
+
+type=home
+title=programming class
+start=2009, 10, 23, 0, 11, 30
+end=2009, 10, 23, 0, 12, 20
+comment=data structures
+
+type=school
+title=java class
+start=2009, 10, 23, 0, 12, 30
+end=2009, 10, 23, 0, 13, 20
+comment=about inheritance
+
+type=home
+title=clean room
+start=2012, 7, 8, 0, 9, 30
+end=2012, 7, 8, 0, 9, 50
+comment=messy
+
